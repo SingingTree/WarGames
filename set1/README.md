@@ -15,3 +15,7 @@ This code uses the concept of the Caesar Cipher, and expects the password to be 
 This code is similar to the first set, but has been obfuscated (to make obscure, to make the code hard to read). It was obfuscated using [pyminifier](https://github.com/liftoff/pyminifier), which is pretty cool, though the output may require tweaking to work.
 
 Anywho, the challenge with this scenario is to figure out how the code works, despite being horrible in terms of readability.
+
+## 1-4
+
+This is a very simple hashing example. The password is taken and converted into a hash (typically a constant length number or string), and you need to figure out what passwords create the correct hash value.
