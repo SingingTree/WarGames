@@ -4,11 +4,11 @@ This set aims to be the 'getting started' set. The goal of each problem is to fi
 
 ## 1-1
 
-This one is just a matter of looking at the code and figuring out how it works
+This one is just a matter of looking at the code and figuring out how it works.
 
 ## 1-2
 
-This code uses the concept of the Caesar Cipher, and expects the password to be the result of applying the Caesar Cipher. The cipher here is a little different from some applications: the shifting isn't taking place in the English alphabet, but using the underlying computer representation of the characters (see [UTF-8 codes](http://www.utf8-chartable.de/), or [ASCII codes](http://www.asciitable.com/))
+This code uses the concept of the Caesar Cipher, and expects the password to be the result of applying the [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher). The cipher here is a little different from some applications: the shifting isn't taking place in the English alphabet, but using the underlying computer representation of the characters (see [ASCII codes](http://www.asciitable.com/) or [UTF-8 codes](http://www.utf8-chartable.de/)). The traditional Caesar Cipher just changes letters, but in this case every character is 'shifted', so take that into consideration.
 
 ## 1-3
 
