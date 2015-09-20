@@ -18,4 +18,4 @@ Anywho, the challenge with this scenario is to figure out how the code works, de
 
 ## 1-4
 
-This is a very simple hashing example. The password is taken and converted into a hash (typically a constant length number or string), and you need to figure out what passwords create the correct hash value.
+This is a simple [hashing](https://en.wikipedia.org/wiki/Hash_function) example. The password is taken and converted into a hash (typically a constant length number or string), and you need to figure out what passwords create the correct hash value. To do this you'll want to examine how the hash function works, and figure out values that can be passed into it to produce the same hash as the one for the password.
