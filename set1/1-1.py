@@ -16,3 +16,7 @@ if(password_input == password):
     print("Success, huzzah")
 else:
     print("Not success, boo")
+
+print("")
+print("Press enter to continue")
+input()

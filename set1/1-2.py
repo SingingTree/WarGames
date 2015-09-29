@@ -22,3 +22,7 @@ if(password_input == ceaser_shift(password, 1)):
     print("Success, huzzah")
 else:
     print("Not success, boo")
+
+print("")
+print("Press enter to continue")
+input()

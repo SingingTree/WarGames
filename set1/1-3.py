@@ -14,4 +14,8 @@ if(q==o+A):
  g("Success, huzzah")
 else:
  g("Not success, boo")
+
+g("")
+g("Press enter to continue")
+v()
 # Created by pyminifier (https://github.com/liftoff/pyminifier

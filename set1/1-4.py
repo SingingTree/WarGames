@@ -20,3 +20,7 @@ if(hash_password(password_input) == hashed_password):
     print("Success, huzzah")
 else:
     print("Not success, boo")
+
+print("")
+print("Press enter to continue")
+input()
