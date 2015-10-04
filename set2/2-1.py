@@ -19,3 +19,7 @@ if(hash(password_input) == password_hash):
     print("Success, huzzah")
 else:
     print("Not success, boo")
+
+print("")
+print("Press enter to continue")
+input()
